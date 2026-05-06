@@ -280,7 +280,9 @@ pip install -r requirements.txt
 ---
 ## Contributors
 pavan.ponnaganti@research.iiit.ac.in
+
 jay.patel@research.iiit.ac.in
+
 krishna.kartheek@research.iiit.ac.in
 
 
