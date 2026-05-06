@@ -278,6 +278,11 @@ pip install -r requirements.txt
 - Split: 70% train (~3,780) / 15% val (~810) / 15% test (~810) — fixed seed=42
 
 ---
+## Contributors
+pavan.ponnaganti@research.iiit.ac.in
+jay.patel@research.iiit.ac.in
+krishna.kartheek@research.iiit.ac.in
+
 
 ## References
 
